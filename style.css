@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+     width: 100%; 
+}
+h3{
+    font-size: 40px;
+}
+h1{
+    font-size: 60px;
+h2{
+    text-align: center;
+}
+}
+.name-highlight{
+    color:mediumvioletred;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: mediumvioletred;
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.middle-part{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.end-game{
+    width: 60%;
+}
+.latest-work img{
+    width: 30%;
+    float: left;
+
+}
+.last-part{
+    width:30%;
+}
+#footer-text{
+    text-align: center;
+}
